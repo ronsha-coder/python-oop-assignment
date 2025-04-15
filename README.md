@@ -1,50 +1,49 @@
 # python-oop-assignment
 A Python project exploring Object-Oriented Programming (OOP) concepts. Includes custom classes like Smartphones and Books, demonstrating constructors, inheritance, encapsulation, and polymorphism.
-# 🧠 OOP Assignment – Python Classes
+# 💻🦸‍♂️ OOP Assignment – Superhero & Smartphone Classes
 
-This project is part of a programming assignment that explores **Object-Oriented Programming (OOP)** concepts using Python. It includes custom-designed classes such as **Smartphones** and **Books**, and demonstrates the use of **constructors**, **inheritance**, and **polymorphism**.
+This project explores **Object-Oriented Programming (OOP)** using Python with two creative themes: **Superheroes** and **Smartphones**. The assignment demonstrates the use of **classes**, **constructors**, **inheritance**, and **polymorphism**.
 
 ---
 
-## 🚀 Project Features
+## 🚀 Features
 
-### ✅ Assignment 1: Design Your Own Class
-- Custom classes: `Smartphone`, `Book`
-- Constructors to initialize object attributes
-- Inheritance to extend base classes
-- Method overriding for dynamic behavior
+### ✅ Assignment 1: Custom Classes
+- `Superhero` with child classes like `FlyingHero`
+- `Smartphone` with child classes like `GamingPhone`
 
-### 🎭 Activity 2: Polymorphism Challenge
-- Common method `action()` used by multiple classes
-- Each class implements its own version of the method (e.g., `Smartphone`, `Book`, `AudioBook`)
+### 🎭 Activity 2: Polymorphism
+- Each class has a method like `specs()` or `introduce()` with different behaviors
+- Demonstrates method overriding and dynamic polymorphism
 
 ---
 
 ## 📁 Files Included
 
-- `smartphone_class.py` – Contains the `Smartphone` and `GamingPhone` classes
-- `book_class.py` – Contains the `Book` and `AudioBook` classes
-- `polymorphism_demo.py` – Demonstrates polymorphism using a shared method
+- `superhero_class.py` – Superhero base and child classes
+- `smartphone_class.py` – Smartphone base and specialized classes
+- `README.md` – Project overview
 
 ---
 
 ## 🛠️ Technologies Used
 
 - Python 3
-- OOP Concepts: Classes, Objects, Inheritance, Method Overriding, Polymorphism
+- Object-Oriented Programming (OOP)
 
 ---
 
 ## 👩‍💻 Author
 
-**[Your Name Here]**  
-GitHub: [@ronsha](https://github.com/ronsha)  
-PLP Academy Student | Beginner Python Developer
+**Your Name Here**  
+GitHub: [@ronsha](https://github.com/ronsha)
 
 ---
 
 ## 📜 License
 
-This project is for educational purposes only. Free to use and modify.
+This project is for educational purposes only.
+
+
 
 
